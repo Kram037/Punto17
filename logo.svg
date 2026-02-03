@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Punto 17">
+  <defs>
+    <style>
+      .bg { fill: #9b1c2f; }
+      .text { fill: #ffffff; font-family: "Poppins", "Segoe UI", sans-serif; font-weight: 700; }
+      .small { font-size: 24px; letter-spacing: 0.3em; }
+      .big { font-size: 72px; }
+    </style>
+  </defs>
+  <circle class="bg" cx="100" cy="100" r="96" />
+  <text class="text small" x="100" y="70" text-anchor="middle">PUNTO</text>
+  <text class="text big" x="100" y="128" text-anchor="middle">17</text>
+</svg>
+
